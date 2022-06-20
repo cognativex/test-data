@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "pageviews": 425669,
+            "published_count": 133,
+            "timestamp": "2022-06-19T00:00:00Z"
+        },
+        {
+            "pageviews": 465320,
+            "published_count": 174,
+            "timestamp": "2022-06-18T00:00:00Z"
+        },
+        {
+            "pageviews": 686636,
+            "published_count": 233,
+            "timestamp": "2022-06-17T00:00:00Z"
+        },
+        {
+            "pageviews": 541579,
+            "published_count": 272,
+            "timestamp": "2022-06-16T00:00:00Z"
+        },
+        {
+            "pageviews": 515383,
+            "published_count": 290,
+            "timestamp": "2022-06-15T00:00:00Z"
+        },
+        {
+            "pageviews": 632694,
+            "published_count": 276,
+            "timestamp": "2022-06-14T00:00:00Z"
+        }
+    ],
+    "api": "/posts-pageviews-by-day"
+}
